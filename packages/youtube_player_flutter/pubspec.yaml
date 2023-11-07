@@ -13,8 +13,8 @@ dependencies:
     sdk: flutter
   flutter_inappwebview:
     git:
-      url: https://github.com/betterafter/flutter_inappwebview.git
-      ref: gsshop_v5.6.0+2
+      url: https://github.com/gsshop-microsvc/flutter_inappwebview_v3.git
+      ref: gsshop_v5.8.0
 
 dev_dependencies:
   flutter_test:
